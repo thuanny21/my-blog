@@ -1,24 +1,24 @@
 const links = [
     {
-        label: 'Github',
+        label: "Github",
         url: 'https://github.com/thuanny21'
-    }
+    },
     {
-        label: 'Twitter',
+        label: "Twitter",
         url: 'https://github.com/thuanny21'
-    }
+    },
     {
-        label: 'Youtube',
+        label: "Youtube",
         url: 'https://github.com/thuanny21'
-    }
+    },
     {
-        label: 'Instagram',
+        label: "Instagram",
         url: 'https://github.com/thuanny21'
-    }
+    },
     {
-        label: 'Unsplash',
+        label: "Unsplash",
         url: 'https://github.com/thuanny21'
-    }
+    },
 ]
 
 export default links

@@ -13,6 +13,7 @@ export const SocialLinksList = styled.ul`
 `
 
 export const SocialLinksItem = styled.li`
+list-style: none;
 
 `
 
